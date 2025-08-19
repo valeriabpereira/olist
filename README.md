@@ -2,7 +2,7 @@
 
 # Objective
 
-This project is a time Series Analysis for Olist Ecommerce Platform on which it was used ARIMA and SARIMA methods.
+This project is a time Series Analysis for Olist Ecommerce Platform to find correlation between clients NPS score and growth revenue on which it was used ARIMA and SARIMA methods.
 
 # Instructions
 
